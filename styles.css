@@ -46,8 +46,8 @@ body{
     color: white;
 }
 #column3 svg{
-    transform: translate(156px, -10px)
+    transform: translate(136px, -10px)
 }
 #column1 svg{
-    transform: translate(-156px, 466px);
+    transform: translate(-136px, 470px);
 }
