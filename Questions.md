@@ -1,1 +1,0 @@
-This is where we will be adding questions for all categories waiting to decide on the app. 
